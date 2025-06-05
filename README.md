@@ -156,4 +156,4 @@ npm run start
 
 - This project is submitted for **backend evaluation** at **Osumare Marketing Solutions**.
 - **Submitted** by: Aditya Vishwakarma
-- **Github Link:**[Click Here to view repository](https://github.com/adityavishwakarma/Osumare-Backend-Assignment/tree/main)
+- **Github Link:**[Click Here to view repository](https://github.com/Ad-cmd-1976/Osumare-Backend-Assignment/tree/main)
